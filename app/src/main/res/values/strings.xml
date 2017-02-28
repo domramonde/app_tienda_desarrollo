@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppGamarra</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Activty Main -->
+    <string name="tab_home">Home</string>
+    <string name="tab_para_ti">Home</string>
+
+    <!-- TODO: Fragment Validar Usuario -->
+    <string name="msg_error_login_servidor">Falló el inicio de sesión, inténtelo más tarde.</string>
+    <string name="o">o</string>
+    <string name="correo">correo</string>
+    <string name="contrasena">contraseña</string>
+
+    <!-- TODO: Fragment Registrar Usuario -->
+    <string name="msg_error_registrar_servidor">Falló el registro, inténtelo más tarde.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_categoria_">Categoria_Activity</string>
+
+
+</resources>

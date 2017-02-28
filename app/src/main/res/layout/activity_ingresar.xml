@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dronesolutions.appgamarra.ui.activity.IngresarActivity"
+    >
+
+    <FrameLayout
+        android:id="@+id/frame_login_content"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:background="@drawable/fondo_login_min"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+    </FrameLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager_login"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/bar_layout_main"
+        />
+
+</android.support.design.widget.CoordinatorLayout>
